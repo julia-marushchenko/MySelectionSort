@@ -16,7 +16,7 @@ public class Main {
         int[] array = {1, 5, 7, 2, 9, 5, 4};
 
         // Sorting the array.
-        for (int i = 1; i <= array.length - 1; i++) {
+        for (int i = 0; i <= array.length - 1; i++) {
 
             // Helping variables.
             int minValue = array[i];
